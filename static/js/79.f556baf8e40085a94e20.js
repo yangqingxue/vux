@@ -1,0 +1,2 @@
+webpackJsonp([79],{"X2/s":function(e,l,u){"use strict";Object.defineProperty(l,"__esModule",{value:!0});var n=u("C7Lr")(null,null,!1,null,null,null);n.options.__file="src/view/activity/wuyi.vue",l.default=n.exports}});
+//# sourceMappingURL=79.f556baf8e40085a94e20.js.map
